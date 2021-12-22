@@ -1,0 +1,17 @@
+{
+    "name": "testtest",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/collection/core-entity": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "prophet",
+        "/category/asset_value_tracking/core-token/symbol": "PHPS",
+        "/category/asset_value_tracking/core-token/decimals": "3",
+        "/category/asset_value_tracking/core-token/supply": "100"
+    }
+}
